@@ -61,7 +61,6 @@ This system models the flow of data from multiple hospitals to a central Health 
 - 🏥 Each hospital VM runs **OpenEMR**, enabling EHR management at the local level.
 - 🔄 Health records are initially in **HL7 format**, then converted into **FHIR resources** for standardization.
 - 🌐 These resources are transmitted securely to the **UPHIE** node, which hosts a **HAPI-FHIR server**.
-- 📊 Aggregated data is visualized using **Google Looker dashboards**, providing real-time insights into outbreaks and trends.
 
 ---
 
