@@ -82,8 +82,7 @@ This system models the flow of data from multiple hospitals to a central Health 
 ---
 
 ## 👨‍⚕️ Contributors
-- Keerthy Kesavan  
-- Albin G Jose
+- Keerthi Kesavan  
 
 ---
 
